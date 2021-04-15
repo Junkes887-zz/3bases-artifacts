@@ -1,4 +1,4 @@
-package crypt
+package artifacts
 
 import (
 	"crypto/aes"
